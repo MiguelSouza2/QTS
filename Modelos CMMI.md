@@ -36,3 +36,8 @@
 
 * A engenharia de sistemas aborda o desenvolvimento de sistemas completos, que podem ou não incluir software. O enfoque é capturar as necessidades do cliente, expectativas e restrições em produtos, fornecendo suporte necessário durante toda a vida do produto.
 
+
+## Práticas Modelo CMMI-SW
+> SW — Software Engineering (Engenharia de Software)
+
+A engenharia de software aborda o desenvolvimento de sistemas essencialmente de software. O papel dos engenheiros de software é aplicar abordagens quantificáveis ao desenvolvimento, operação e manutenção do software, de forma sistemática, displicinada.
