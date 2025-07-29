@@ -46,5 +46,3 @@ Este repositório contém anotações, conceitos, exercícios e materiais relaci
 - Rastreabilidade
 - Relatórios de execução
 
-## 📁 Estrutura do Repositório
-
