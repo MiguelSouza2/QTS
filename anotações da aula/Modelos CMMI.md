@@ -40,4 +40,5 @@
 ## Práticas Modelo CMMI-SW
 > SW — Software Engineering (Engenharia de Software)
 
-A engenharia de software aborda o desenvolvimento de sistemas essencialmente de software. O papel dos engenheiros de software é aplicar abordagens quantificáveis ao desenvolvimento, operação e manutenção do software, de forma sistemática, displicinada.
+A engenharia de software aborda o desenvolvimento de sistemas essencialmente de software. O papel dos engenheiros de software é aplicar abordagens quantificáveis ao desenvolvimento, operação e manutenção do software, de forma sistemática, disciplinada.
+
