@@ -1,4 +1,6 @@
 {
   "cssTheme": "Things",
-  "accentColor": "#486ba3"
+  "accentColor": "#486ba3",
+  "textFontFamily": "Inter,Arial",
+  "monospaceFontFamily": "Noteworthy"
 }

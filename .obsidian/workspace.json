@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "anotações da aula/Modelos CMMI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Modelos CMMI"
             }
           }
         ]
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelos CMMI.md",
+                "file": "anotações da aula/Modelos CMMI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,6 +181,9 @@
   },
   "active": "227bb2d2003f0ee9",
   "lastOpenFiles": [
+    "mindmaps/anotation/Avaliação de produtos de software.md",
+    "anotações da aula/Modelos CMMI.md",
+    "README.md",
     "exercícios/Atividade QTS -Questões Qualidade de Software -- respondido.docx",
     "exercícios/Atividade QTS -Questões Avaliação de prodsoft - respondido.docx",
     "exercícios/Atividade QTS -Qualidade de Processo -- respondido.docx",
@@ -188,8 +191,6 @@
     "exercícios",
     "Nova pasta",
     "mindmaps/Untitled.canvas",
-    "README.md",
-    "anotações da aula/Modelos CMMI.md",
     "mindmaps/Untitled.md",
     "anotações da aula",
     "mindmaps/Welcome.md",
@@ -197,7 +198,6 @@
     "aafdaf.md",
     "aula",
     "aula/aula 01- QTS- Introdução a Qualidade de Teste.pdf",
-    "mindmaps/anotation/Avaliação de produtos de software.md",
     "mindmaps"
   ]
 }

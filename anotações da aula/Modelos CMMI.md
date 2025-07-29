@@ -1,5 +1,5 @@
 # <mark style="background: #D2B3FFA6;">CMMI</mark> — Capability Maturity Model Integrated
-* Feito pelo SEI (Software Engineering Institute)
+* Feito pelo <font style="color: #6D72FF">SEI (Software Engineering Institute)</font>
 * O SEI focaliza a transição tecnológica, ou seja, o desenvolvimento e a adoção das melhores práticas de Engenharia de Software
 * Contém práticas (genéricas ou específicas)
 * Foi contruído considerando 3 dimensões principais: 
@@ -16,19 +16,21 @@
 * Melhoramento dos processos como um todo 
 
 
+---
+
 
 # Visão geral dos modelos CMMI
 > O CMMI atualmente está organizado em 3 modelos, chamados de constelação, cada um contendo práticas para áreas do desenvolvimento:
 
 ### CMMI for development (CMMI-DEV)
 >*Voltado ao processo de desenvolvimento de produtos e serviços*
->Ex: Empresas que criam sistemas 
+>Ex: Empresas que criam sistemas , como softwares, hardware
 ### CMMI for Acquisition (CMMI-ACQ)
 > *Voltado aos processos de aquisicão e terceirização de bens e serviços*
 > Ex: Organizações que contratam ou compram produtos e serviços de terceiros
 ### CMMI for Services (CMMI-SVC)
 > *Voltado aos processos de empresas prestadoras de serviços*
-> Ex:  Empresas que oferecem serviços ao cliente, como suporte técnico
+> Ex:  Empresas que oferecem serviços ao cliente, como suporte técnico, help desk
 
 
 ## Práticas modelo CMMI-SE
@@ -42,3 +44,17 @@
 
 A engenharia de software aborda o desenvolvimento de sistemas essencialmente de software. O papel dos engenheiros de software é aplicar abordagens quantificáveis ao desenvolvimento, operação e manutenção do software, de forma sistemática, disciplinada.
 
+
+# Práticas modelo CMMI-IPPD
+> IPPD — Integrated Product and Process Development (Desenvolvimento Integrado de Produto e Processo)
+
+A área de conhecimento IPPD aborda, de maneira sistemática, o relacionamento e interação dos stakeholders mais representativos durante o tempo de vida do produto, objetivando satisfazer as necessidades do cliente, expectativas e requisitos
+
+# Caminhos do modelo CMMI
+### O modelo CMMI apresenta dois caminhos a serem seguidos:
+#### <mark style="background: #FFF3A3A6;">Contínuo</mark>
+> Para a representação contínua, usa-se o termo nível de capacidade ou ainda capacidade da área de processo.
+* Permite que a organização evolua de forma incremental os processos correspondentes a uma área de processo (Process Area — PA ) (Individual) ou a um grupo de área de processos selecionado pela empresa.
+
+### <mark style="background: #BBFABBA6;">Por estágios</mark>
+> Para a representação por estágios, usa-se o termo nível de maturidade ou ainda a maturidade da organização.
