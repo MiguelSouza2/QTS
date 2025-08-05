@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "anotações da aula/Modelos CMMI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Modelos CMMI"
             }
           }
         ]
@@ -183,10 +183,11 @@
   "active": "b664bdb4015f229d",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-08-04 14.59.46.excalidraw.md",
+    "anotações da aula/Modelos CMMI.md",
     "README.md",
+    "2025-08-04.md",
     "Excalidraw",
     "Untitled",
-    "anotações da aula/Modelos CMMI.md",
     "teste.md",
     "mindmaps/anotation/Qualidade de processo.md",
     "mindmaps/anotation/Teste de usabilidade.md",
